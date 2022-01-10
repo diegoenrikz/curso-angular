@@ -1,6 +1,6 @@
 import { TestBed } from '@angular/core/testing';
 import { AppComponent } from './app.component';
-
+//Clase de pruebas
 describe('AppComponent', () => {
   beforeEach(async () => {
     await TestBed.configureTestingModule({
